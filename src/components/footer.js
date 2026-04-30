@@ -27,10 +27,10 @@ const Footer = () => {
             className="space-y-4"
           >
             <h2 className="text-2xl Satisfy text-gray-900">
-              Rule257 Coffee
+              Rule257 Coffee 
             </h2>
             <p className="text-gray-500 leading-relaxed max-w-md">
-              Crafting fresh coffee experiences with simplicity, quality, and care.
+              Crafting fresh coffee experiences waith simplicity, quality, and care.
             </p>
           </motion.div>
 
