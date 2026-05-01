@@ -4,7 +4,7 @@ import React from "react";
 
 const Herosection = ({img,index,title,desc}) => {
   return (
-    <div className="w-full relative h-screen flex flex-col items-center justify-between gap-10 ">
+    <div className="w-full relative md:h-screen h-[80vh] flex flex-col items-center justify-between gap-10 ">
       <Image
         src={"/bean.jpg"}
         alt="400"
