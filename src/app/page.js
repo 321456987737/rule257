@@ -9,9 +9,7 @@ import Location from "@/components/home/location"
 export default function Home() {
   return (
     <div>
-      <HeroSection  img="/hand.jpg" desc="Lorem ipsum dolor sit amet consectetur adipisicing elit. Id veniam
-          illo veritatis, qui magni consequuntur quas exercitationem nulla?
-          Delectus nihil aliquam illum labore sapiente nobis!" title="The title"/>
+      <HeroSection  img="/hand.jpg" desc="From expertly brewed espresso to freshly baked treats, every visit is designed to make you slow down, relax, and enjoy the moment." title="Crafted Coffee, Served with Passion"/>
       <Welcome/>
       <About/>
       <Menusection/>
